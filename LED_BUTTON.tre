@@ -1,0 +1,11 @@
+ÀÄLED_BUTTON
+   ÀÄMAIN  0/55  Ram=1
+      ÃÄ??0??
+      ÃÄButton1  0/20  Ram=1
+      ÀÄButton2  0/80  Ram=1
+         ÃÄ@delay_ms1  0/20  Ram=1
+         ÃÄ@delay_ms1  0/20  Ram=1
+         ÃÄ@delay_ms1  0/20  Ram=1
+         ÃÄ@delay_ms1  0/20  Ram=1
+         ÃÄ@delay_ms1  0/20  Ram=1
+         ÀÄ@delay_ms1  0/20  Ram=1
